@@ -1,3 +1,3 @@
-# https://github.com/AlenaZin/Validation
+# https://github.com/AlenaZin/Validation "Форма валидации"
 
-> 0.0.1
+> Версия: 0.0.1
